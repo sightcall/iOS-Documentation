@@ -80,7 +80,7 @@ The Framework requires some permissions to be used and must be set in the App's 
 
 * **NSPhotoLibraryUsageDescription** This permission is required for sharing images from the gallery.
 
-![image-20210315113139337](/Users/jason/SightCall/pub/USDKDemo/README.assets/image-20210315113139337.png)
+![image-20210315113139337](./README.assets/image-20210315113139337.png)
 
 #### Capabilities
 
